@@ -2523,7 +2523,7 @@
   },
   {
     "Id": "d542016a-fdf9-4c8e-b4ea-eed1afc7df93",
-    "Title": "Create sites, posts, and lists",
+    "Title": "Vytvářejte weby, příspěvky a seznamy",
     "Image": "images/playlists/create_sites_posts_and_lists.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2531,7 +2531,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Create a team site to stay connected and communicate, update lists, add or remove a news post, and add web parts",
+    "Description": "Vytvořte týmový web, abyste zůstali ve spojení a mohli komunikovat, aktualizovat seznamy, přidávat nebo odebírat příspěvky a přidávat webové části",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -2544,7 +2544,7 @@
   },
   {
     "Id": "6601f080-d86a-4d0c-9e60-150746bf8f96",
-    "Title": "Share and sync with SharePoint",
+    "Title": "Sdílejte a synchronizujte se službou SharePoint",
     "Image": "images/playlists/sharepoint_online_share_and_sync.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -2552,7 +2552,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Create, share, and SharePoint files",
+    "Description": "Vytvářejte, sdílejte a sdílejte soubory SharePoint",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
